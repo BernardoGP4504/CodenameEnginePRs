@@ -10,6 +10,8 @@ import lime.utils.AssetLibrary;
 import openfl.utils.Assets as OpenFlAssets;
 import animate.FlxAnimateFrames;
 
+import flixel.util.typeLimit.OneOfTwo;
+
 using StringTools;
 
 class Paths
